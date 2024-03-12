@@ -66,7 +66,7 @@ footer{
 
         /*cargar las imagenes a los botones como spries en un videojuego*/
 
-        background: url(/Portfolio/TinderSwap/assets/webp/tinder-icons.webp) no-repeat;
+        background: url(assets/webp/tinder-icons.webp) no-repeat;
         background-position: 0px 0px;
         background-size: 175px;
         cursor: pointer;
